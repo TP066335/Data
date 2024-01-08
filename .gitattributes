@@ -1,2 +1,4 @@
 *.etl filter=lfs diff=lfs merge=lfs -text
 C:/Users/Ang/github/Tensorflow[[:space:]]GPU[[:space:]]on[[:space:]]Native[[:space:]]Windows.etl filter=lfs diff=lfs merge=lfs -text
+C:/Users/Ang/github/Tensorflow[[:space:]]GPU[[:space:]]on[[:space:]]Native[[:space:]]Windows.etl filter=lfs diff=lfs merge=lfs -text
+C:/Users/Ang/Desktop/Disable[[:space:]]AMD[[:space:]]GPU.etl filter=lfs diff=lfs merge=lfs -text
